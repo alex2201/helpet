@@ -183,7 +183,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/helpet_frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -487,7 +487,7 @@
       <workItem from="1559440157547" duration="15964000" />
       <workItem from="1559534891147" duration="54000" />
       <workItem from="1559683997312" duration="7456000" />
-      <workItem from="1560289144189" duration="75000" />
+      <workItem from="1560289144189" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="added login">
       <created>1557118737126</created>
@@ -507,10 +507,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162374000" />
+    <option name="totallyTimeSpent" value="162469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.29127517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
